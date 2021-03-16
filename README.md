@@ -85,3 +85,20 @@ void loop()
   delay(10); // Delay a little bit to improve simulation performance
 }
 ```
+
+### Link Tutorial dan Referensi Belajar
+- https://www.tinkercad.com/
+- https://create.arduino.cc/projecthub
+- https://digitalapik.blogspot.com/2019/02/mengenal-pin-pin-pada-arduino.html
+
+## Penugasan Arduino
+- Membuat suatu rangkaian yang menggunakan beberapa modul (minimal 2)
+- Rangkaian yang dibuat memiliki manfaat
+- Setiap individu rangkaiannya berbeda-beda
+
+### Penilaian Arduino
+- Minimal jumlah modul yang digunakan
+- Kreativitas ide yang digunakan
+- Pengimplementasian ide
+- Keberhasilan ide
+- Penyampaian ide
